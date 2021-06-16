@@ -1,2 +1,24 @@
+
+IIHT CLoud VM
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/Spark.zip - 7.6GB
+
+Hadoop Basics
+1. Hadoop Introduction
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/01.+Hadoop+Series+Introduction.mp4
+2. Hadoop Technology Stack
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/02.+Hadoop+Technology+Stack.mp4
+3.
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/03.+Hadoop+Distributed+File+System+(HDFS).mp4
+4.
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/04.+Introduction+to+MapReduce.mp4
+5.
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/05.+Installing+Apache+Hadoop+(Single+Node).mp4
+6.
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/06.+Installing+Apache+Hadoop+(Multi+Node).mp4
+
+
+HIVE
+1.
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/12.+Introduction+to+Hive.mp4
+2.
 https://cdb21dw033.s3.ap-south-1.amazonaws.com/13.+Developing+with+Hive.mp4
-https://cdb21dw033.s3.ap-south-1.amazonaws.com/hive.zip
