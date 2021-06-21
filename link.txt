@@ -1,3 +1,7 @@
+Mapreduce example
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/hadoop-mapreduce-examples-2.6.0.jar
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/war.txt
+
 Download VMWARE
 https://s3.console.aws.amazon.com/s3/object/cdb21dw033?region=ap-south-1&prefix=VMWARE/VMware-workstation-full-16.1.2-17966106.exe
 
