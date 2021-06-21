@@ -7,6 +7,8 @@ programs
 https://github.com/karthick1808/HadoopInstallation/raw/main/Hadoop-Trainer-master.zip
 data
 https://github.com/karthick1808/Hadoop-Trainer-Data
+reference video
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/09.+MapReduce+Development.mp4
 
 
 Download VMWARE
