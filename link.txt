@@ -1,3 +1,8 @@
+Scala
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/spark/2.+C2+-+Scala+(24)+Practical.mp4
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/spark/3.+C3+-+Scala+(34)+Practical.mp4
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/spark/4.+C4+-+Scala+(44)+Practical.mp4
+
 Mapreduce example
 https://cdb21dw033.s3.ap-south-1.amazonaws.com/hadoop-mapreduce-examples-2.6.0.jar
 https://cdb21dw033.s3.ap-south-1.amazonaws.com/war.txt
