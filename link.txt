@@ -1,3 +1,7 @@
+Apache Pig
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/Pig/10.+Introduction+to+Pig.mp4
+https://cdb21dw033.s3.ap-south-1.amazonaws.com/Pig/11.+Developing+with+Pig.mp4
+
 Scala
 https://cdb21dw033.s3.ap-south-1.amazonaws.com/spark/2.+C2+-+Scala+(24)+Practical.mp4
 https://cdb21dw033.s3.ap-south-1.amazonaws.com/spark/3.+C3+-+Scala+(34)+Practical.mp4
